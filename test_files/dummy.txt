@@ -1,0 +1,2 @@
+# Sample dummy password
+pwd: 'pass123'

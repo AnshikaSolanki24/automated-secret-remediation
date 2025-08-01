@@ -1,0 +1,4 @@
+# Python code sample
+def connect():
+    password = "MyC0mpl3xP@ss"
+    return True

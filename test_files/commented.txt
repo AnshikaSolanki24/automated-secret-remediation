@@ -1,0 +1,3 @@
+# Sample snippet
+# password = "NotASecret"
+# End of snippet
